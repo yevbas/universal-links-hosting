@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "7SVA3R34P5.com.yevbas.weeshlist",
-        "paths": [ "/users/*", "/open/*", "/" ]
+        "paths": [ "/profiles/*", "/open/*", "/" ]
       }
     ]
   }
