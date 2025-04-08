@@ -1,10 +1,16 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "7SVA3R34P5.com.yevbas.weeshlist",
-        "paths": [ "*" ]
+        "appIDs": [
+          "7SVA3R34P5.com.yevbas.weeshlist"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches any URL with any path."
+          }
+        ]
       }
     ]
   }
